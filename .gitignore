@@ -47,7 +47,6 @@ typings/
 .env.production.local
 
 # rollup.js default build output
-dist/
 
 # Temporary folders
 tmp/
